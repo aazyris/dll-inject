@@ -116,7 +116,7 @@ def print_banner():
     """
     print(Colorate.Horizontal(Colors.blue_to_white, banner, 1))
     print(f"{Colors.blue}[{Colors.white}+{Colors.blue}] {Colors.white}DLL Injector v2.0")
-    print(f"{Colors.blue}[{Colors.white}+{Colors.blue}] {Colors.white}Développé par Azyris")
+    print(f"{Colors.blue}[{Colors.white}+{Colors.blue}] {Colors.white}Dev par Azyris")
     print(f"{Colors.blue}[{Colors.white}+{Colors.blue}] {Colors.white}dioscrd.gg/yfAqBuzgPz")
     print(f"{Colors.blue}─────────────────────────────────────────────{Colors.reset}\n")
 
